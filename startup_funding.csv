@@ -1,4 +1,4 @@
-﻿Sr No,Date dd/mm/yyyy,StartupName,Industry Vertical,SubVertical,CityLocation,,InvestorsName,InvestmentnType,AmountUSD,Remarks
+﻿Sr No,Date dd/mm/yyyy,StartupName,Industry Vertical,SubVertical,CityLocation,CityCode,InvestorsName,InvestmentnType,AmountUSD,Remarks
 1,9/1/2020,BYJU’S,E-Tech,E-learning,Bengaluru,1,Tiger Global Management,Private Equity Round,200000000,
 2,13/01/2020,Shuttl,Transportation,App based shuttle service,Gurgaon,2,Susquehanna Growth Equity,Series C,8048394,
 3,9/1/2020,Mamaearth,E-commerce,Retailer of baby and toddler products,Bengaluru,3,Sequoia Capital India,Series B,18358860,
